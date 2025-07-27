@@ -33,6 +33,7 @@ output/*
 
 # Vscode files
 .vscode
+.serena
 
 /patches
 /oldimpl
